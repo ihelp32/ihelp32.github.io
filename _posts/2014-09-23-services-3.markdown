@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: macbook.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Ремонт и обслуживание Mac
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Наш сервис готов предложить свои услуги по обслуживанию и квалифицированному ремонту вашего MacBook, iMac или Mac Pro
