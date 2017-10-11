@@ -11,7 +11,7 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site
   description.
 copyright: 'Copyright &copy; 2017 iHelp32.ru. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Информация опубликованная на сайте не является публичной офертой, определяемой положениями Статьи 437 ГК РФ.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,3 +28,5 @@ permalink: pretty
 social:
   - title: vk
     url: https://vk.com/ihelp32
+  - title: instagram
+    url: https://www.instagram.com/Ihelp32service/

@@ -10,15 +10,21 @@ html {
     height: 100%;
 }
 
-body,
+body {
+      font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+.navbar {
+  font-weight: 700;
 }
 
 .lead {
@@ -165,6 +171,28 @@ p.copyright {
     margin: 15px 0 0;
 }
 
+.contact-inner-table {
+  margin: 10px 0;
+}
+.contact-fa {
+  font-size: 30px;
+  margin-right: 15px;
+}
+
 .contact-text {
-  background-color: rgba(0, 0, 0, 0.3)
+  background-color: rgba(0, 0, 0, 0.4)
+}
+
+.contact-info {
+  font-size: 22px; 
+}
+
+.contact-link {
+  color: #fff;
+}
+
+.about-description {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.4
 }
