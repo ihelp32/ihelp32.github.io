@@ -1,0 +1,8 @@
+---
+layout: default
+img: watch.png
+category: Services
+title: Обслуживание Apple Watch
+description: |
+---
+Даже самое персональное устройство от Apple может перестать вас радовать, но это ненадолго, ведь для этого и есть мы. Заменим устройство на новое!
