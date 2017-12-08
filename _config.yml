@@ -4,10 +4,10 @@
 
 url: http://ihelp32.ru
 title: brobrohelp
-email: ihelp32@gmail.com
+email: brobrohelp@gmail.com
 author: 'Petr Stepchenko <nitrinodev@gmail.com>'
 description: 'Ремонт и обслуживание техники Apple: iPhone, iPad, MacBook, iMac'
-copyright: 'Copyright &copy; 2017 iHelp32service.ru. All Rights Reserved.'
+copyright: 'Copyright &copy; 2017 brobrohelp.ru. All Rights Reserved.'
 credits: 'Информация опубликованная на сайте не является публичной офертой, определяемой положениями Статьи 437 ГК РФ.'
 
 # ----------------------- #
@@ -24,6 +24,8 @@ permalink: pretty
 
 social:
   - title: vk
-    url: https://vk.com/ihelp32service
+    url: https://vk.com/brobrohelp
   - title: instagram
-    url: https://www.instagram.com/Ihelp32service/
+    url: https://www.instagram.com/brobrohelp/
+  - title: Telegram
+    url: https://t.me/brobrohelp
